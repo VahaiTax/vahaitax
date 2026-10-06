@@ -1,0 +1,11 @@
+# VAHAI TAX — robots.txt
+User-agent: *
+Allow: /
+
+# Block parameterised duplicates (tracking/query strings) from being crawled
+Disallow: /*?*
+
+# Non-content technical files
+Disallow: /sw.js
+
+Sitemap: https://www.vahaitax.com/sitemap.xml

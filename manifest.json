@@ -1,0 +1,27 @@
+{
+  "name": "VAHAI TAX — Tax & Accounting",
+  "short_name": "VAHAI TAX",
+  "description": "Personal and business tax, bookkeeping, payroll and corporate services across Canada.",
+  "lang": "en-CA",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a2e18",
+  "theme_color": "#0a2e18",
+  "categories": ["finance", "business"],
+  "icons": [
+    {
+      "src": "https://sri1985.github.io/vahaitaxsimple/assets/vahaiwebp.webp",
+      "sizes": "any",
+      "type": "image/webp",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    { "name": "Call VAHAI TAX", "url": "tel:+14164392688" },
+    { "name": "Services", "url": "./#services" },
+    { "name": "Français", "url": "./fr/" }
+  ]
+}
